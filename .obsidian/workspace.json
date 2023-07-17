@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d4b5b9d08c5b2d8d",
+        "id": "c98fd4c741efcdbe",
         "type": "tabs",
         "children": [
           {
-            "id": "55c610a1cfd338dc",
+            "id": "e24147ddb8163ced",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Result/Documents.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Result/Documents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Result/Documents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Result/Documents.md"
+              }
             }
           },
           {
@@ -145,9 +153,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "55c610a1cfd338dc",
-  "lastOpenFiles": []
+  "active": "e24147ddb8163ced",
+  "lastOpenFiles": [
+    "assets/~$aft_Skripsi_Jevon Jordan_03111940000046.docx",
+    "assets/~WRL0001.tmp",
+    "assets/~WRD0000.tmp",
+    "assets/Draft_Skripsi_Jevon Jordan_03111940000046.docx",
+    "Future Plan/To Do List.md",
+    "assets/Final Product.pptx.md",
+    "Result/Documents.md",
+    "assets/~$Final Product.pptx",
+    "assets/Final Product.pptx",
+    "Documentation (Back UP)"
+  ]
 }
