@@ -9,9 +9,11 @@ This is the submitted thesis. Future content would have to adjust to the incomin
 ![[assets/Draft_Skripsi_Jevon Jordan_03111940000046.docx]]
 
 ### Journal
-The journal made so far still requires further review. I am now 
+The journal made so far still requires further review. The uploaded journal would be the `.docx` version. 
+```ad-warning
+This journal still needs a lot of rework
+```
 
 
----
-### Add-In Tools
-A Beta PDF Tool Could be found in: 
+
+
