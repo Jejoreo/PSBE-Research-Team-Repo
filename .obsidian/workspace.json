@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c98fd4c741efcdbe",
+        "id": "05880d20afd5ca64",
         "type": "tabs",
         "children": [
           {
-            "id": "e24147ddb8163ced",
+            "id": "0b2026ee29ada349",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Result/Documents.md",
+                "file": "Result/Add In.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Result/Documents.md",
+                "file": "Result/Add In.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Result/Documents.md",
+                "file": "Result/Add In.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Result/Documents.md"
+                "file": "Result/Add In.md"
               }
             }
           },
@@ -159,16 +159,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e24147ddb8163ced",
+  "active": "0b2026ee29ada349",
   "lastOpenFiles": [
+    "Result/Documents.md",
+    "Result/Add In.md",
+    "Result/Future Steps.md",
+    "Future Plan/To Do List.md",
+    "assets/Final Product.pptx.md",
+    "assets/Draft_Skripsi_Jevon Jordan_03111940000046.docx.md",
     "assets/~$aft_Skripsi_Jevon Jordan_03111940000046.docx",
+    "assetsDraft_Skripsi_Jevon Jordan_03111940000046.docx.md",
+    "assets/~$Final Product.pptx",
     "assets/~WRL0001.tmp",
     "assets/~WRD0000.tmp",
     "assets/Draft_Skripsi_Jevon Jordan_03111940000046.docx",
-    "Future Plan/To Do List.md",
-    "assets/Final Product.pptx.md",
-    "Result/Documents.md",
-    "assets/~$Final Product.pptx",
     "assets/Final Product.pptx",
     "Documentation (Back UP)"
   ]
