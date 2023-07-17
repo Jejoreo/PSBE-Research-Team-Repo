@@ -8,7 +8,7 @@ This one only contains the information presented during the thesis seminar. No a
 ```
 
 ## Jevon's Thesis Document
-This is the submitted thesis. Future content would have to adjust to the incoming testing result. But this one seems to be the only viable ones:
+This is the submitted thesis. Future content would have to adjust to the incoming testing result. But this one seems to be the only viable ones. I would link the Microsoft word resulting documents and :
 ![[assets/Draft_Skripsi_Jevon Jordan_03111940000046.docx]]
 
 ```ad-bug
