@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarCircleCheck",
+      "FarCommentDots",
       "FarCopyright",
       "FarCircle",
-      "FarBell",
-      "FarFileLines",
-      "FarBookmark"
+      "FarBell"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,8 +26,10 @@
   "Documentation (Back UP)": "FarObjectGroup",
   "Future Plan": "FarCalendarDays",
   "Result": "FarBookmark",
-  "Result/Documents.md": "FarFileLines",
   "Result/Future Steps.md": "FarBell",
   "Future Plan/To Do List.md": "FarCircle",
-  "Result/Extra Add In ( In Progress).md": "FarCopyright"
+  "Result/Extra Add In ( In Progress).md": "FarCopyright",
+  "Result/Documents Related Stuffs.md": "FarFileLines",
+  "Meeting Note": "FarCommentDots",
+  "Meeting Note/Jevon's Thesis Conclusion Sketch.md": "FarCircleCheck"
 }

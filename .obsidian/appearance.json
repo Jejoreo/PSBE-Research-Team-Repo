@@ -1,5 +1,8 @@
 {
   "accentColor": "",
   "cssTheme": "AnuPpuccin",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "Image Settings"
+  ]
 }
