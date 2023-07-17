@@ -17,6 +17,8 @@ kanban-plugin: basic
 ## Additional Testing
 
 **Complete**
+- [x] SBE &PSBE Testing
+- [x] Fly ash raw material SEM-EDX
 
 
 ***

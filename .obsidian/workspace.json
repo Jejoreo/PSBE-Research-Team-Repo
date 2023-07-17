@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Result/Future Steps.md",
+                "file": "Meeting Note/Conclusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Result/Future Steps.md",
+                "file": "Meeting Note/Conclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Result/Future Steps.md",
+                "file": "Meeting Note/Conclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Result/Future Steps.md"
+                "file": "Meeting Note/Conclusion.md"
               }
             }
           },
@@ -161,14 +161,15 @@
   },
   "active": "b02743ed856eb747",
   "lastOpenFiles": [
-    "Future Plan/Conclusion.md",
-    "Future Plan/To Do List.md",
-    "Result/Documents Related Stuffs.md",
-    "Result/Extra Add In ( In Progress).md",
+    "Meeting Note/Jevon's Thesis Conclusion Sketch.md",
+    "Meeting Note/Conclusion.md",
     "assets/Final Product.pptx.md",
     "assets/Draft_Skripsi_Jevon Jordan_03111940000046.docx.md",
+    "Future Plan/To Do List.md",
+    "Result/Documents Related Stuffs.md",
+    "Result/Extra Add In Tools ( In Progress).md",
     "Result/Future Steps.md",
-    "Meeting Note/Jevon's Thesis Conclusion Sketch.md",
+    "assets/~$aft_Skripsi_Jevon Jordan_03111940000046.docx",
     "Meeting Note",
     "assets/~$urnal Prototype.docx",
     "assets/~WRL0001.tmp",
@@ -178,7 +179,6 @@
     "Test Results/Raw Material SEM-EDX/B137/Thumbs.db",
     "Test Results/Raw Material SEM-EDX/B137/B137 5KX.tif",
     "Test Results/Raw Material SEM-EDX/B137/Report B137 area 2.pdf",
-    "Test Results/Raw Material SEM-EDX/B137/Report B137 area 1.pdf",
     "assetsDraft_Skripsi_Jevon Jordan_03111940000046.docx.md"
   ]
 }

@@ -93,12 +93,12 @@ futher investigation is needed ^CJUrL15g
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://excalidraw.com",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.8",
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 123,
-			"versionNonce": 1747553405,
+			"version": 124,
+			"versionNonce": 221082132,
 			"isDeleted": false,
 			"id": "sq4H3VsP4CdeHwgfXrwr1",
 			"fillStyle": "hachure",
@@ -115,6 +115,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 52.51558976777305,
 			"seed": 1145384752,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
@@ -132,9 +133,12 @@ futher investigation is needed ^CJUrL15g
 					"type": "arrow"
 				}
 			],
-			"updated": 1689081433500,
-			"link": null,
-			"locked": false
+			"updated": 1689599922330,
+			"link": "![[assets/Draft_Skripsi_Jevon Jordan_03111940000046.docx]]",
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
@@ -152,10 +156,11 @@ futher investigation is needed ^CJUrL15g
 			"y": -221.63748931884766,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 137,
-			"height": 32,
+			"width": 134.91009521484375,
+			"height": 31.683979495018768,
 			"seed": 48981456,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [
 				{
@@ -174,15 +179,19 @@ futher investigation is needed ^CJUrL15g
 			"updated": 1689081643272,
 			"link": null,
 			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			},
 			"fontSize": 25.347183596015014,
 			"fontFamily": 1,
 			"text": "Conclusions",
 			"rawText": "Conclusions",
-			"baseline": 22,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Conclusions"
+			"originalText": "Conclusions",
+			"lineHeight": 1.25,
+			"baseline": 22
 		},
 		{
 			"type": "arrow",
@@ -204,6 +213,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 142.06585676514175,
 			"seed": 1594873939,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -241,8 +251,8 @@ futher investigation is needed ^CJUrL15g
 		},
 		{
 			"type": "rectangle",
-			"version": 265,
-			"versionNonce": 2124421515,
+			"version": 266,
+			"versionNonce": 1566980756,
 			"isDeleted": false,
 			"id": "qRklwYohMfZSPzd0uCfNt",
 			"fillStyle": "hachure",
@@ -259,6 +269,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 72.60770329843365,
 			"seed": 1564702547,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
@@ -272,9 +283,12 @@ futher investigation is needed ^CJUrL15g
 					"type": "arrow"
 				}
 			],
-			"updated": 1689146456910,
-			"link": "obsidian://open?vault=Hobby&file=To%20Do%2FThesis%20Note%20Link",
-			"locked": false
+			"updated": 1689599932689,
+			"link": null,
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
@@ -292,10 +306,11 @@ futher investigation is needed ^CJUrL15g
 			"y": -403.9137051971842,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 521,
+			"width": 519.7195434570312,
 			"height": 50,
 			"seed": 843481587,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [
 				{
@@ -306,15 +321,19 @@ futher investigation is needed ^CJUrL15g
 			"updated": 1689146677576,
 			"link": null,
 			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			},
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "There's no clear correlation between acetone volume\n& SBE Weight with oil content reduction quantity.  ",
 			"rawText": "There's no clear correlation between acetone volume\n& SBE Weight with oil content reduction quantity.  ",
-			"baseline": 42,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "There's no clear correlation between acetone volume\n& SBE Weight with oil content reduction quantity.  "
+			"originalText": "There's no clear correlation between acetone volume\n& SBE Weight with oil content reduction quantity.  ",
+			"lineHeight": 1.25,
+			"baseline": 43
 		},
 		{
 			"type": "text",
@@ -332,10 +351,11 @@ futher investigation is needed ^CJUrL15g
 			"y": -460.316601217039,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 186,
-			"height": 35,
+			"width": 184.2608642578125,
+			"height": 35.112465976345945,
 			"seed": 1744978643,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [
 				{
@@ -346,20 +366,24 @@ futher investigation is needed ^CJUrL15g
 			"updated": 1689146481043,
 			"link": null,
 			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			},
 			"fontSize": 28.089972781076757,
 			"fontFamily": 1,
 			"text": "1. Oil Content",
 			"rawText": "1. Oil Content",
-			"baseline": 25,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "1. Oil Content"
+			"originalText": "1. Oil Content",
+			"lineHeight": 1.25,
+			"baseline": 24
 		},
 		{
 			"type": "rectangle",
-			"version": 318,
-			"versionNonce": 1423097395,
+			"version": 319,
+			"versionNonce": 1399441428,
 			"isDeleted": false,
 			"id": "Er_wXE7Oz8RqihhBiDCQI",
 			"fillStyle": "hachure",
@@ -376,6 +400,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 81.40726846978487,
 			"seed": 1642370227,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
@@ -385,9 +410,12 @@ futher investigation is needed ^CJUrL15g
 					"type": "arrow"
 				}
 			],
-			"updated": 1689075389615,
-			"link": "obsidian://open?vault=Hobby&file=To%20Do%2FThesis%20Note%20Link",
-			"locked": false
+			"updated": 1689599934599,
+			"link": null,
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
@@ -405,10 +433,11 @@ futher investigation is needed ^CJUrL15g
 			"y": -258.6615215838993,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 462,
-			"height": 35,
+			"width": 459.9220275878906,
+			"height": 35.112465976345945,
 			"seed": 1107359699,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689146933820,
@@ -418,11 +447,12 @@ futher investigation is needed ^CJUrL15g
 			"fontFamily": 1,
 			"text": "2. Chemical Composition & Effect",
 			"rawText": "2. Chemical Composition & Effect",
-			"baseline": 25,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "2. Chemical Composition & Effect"
+			"originalText": "2. Chemical Composition & Effect",
+			"lineHeight": 1.25,
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -440,10 +470,11 @@ futher investigation is needed ^CJUrL15g
 			"y": -200.36852588681268,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 453,
+			"width": 452.3996276855469,
 			"height": 50,
 			"seed": 1415852915,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689075131501,
@@ -453,11 +484,12 @@ futher investigation is needed ^CJUrL15g
 			"fontFamily": 1,
 			"text": "Major increasement in 4 chemical compositions:\nIllite, Cristobalite, Sodalite, dan Gaylusite",
 			"rawText": "Major increasement in 4 chemical compositions:\nIllite, Cristobalite, Sodalite, dan Gaylusite",
-			"baseline": 42,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Major increasement in 4 chemical compositions:\nIllite, Cristobalite, Sodalite, dan Gaylusite"
+			"originalText": "Major increasement in 4 chemical compositions:\nIllite, Cristobalite, Sodalite, dan Gaylusite",
+			"lineHeight": 1.25,
+			"baseline": 43
 		},
 		{
 			"type": "arrow",
@@ -479,6 +511,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 37.333333333333314,
 			"seed": 1845015293,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -534,6 +567,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 218.91281519180683,
 			"seed": 1527276797,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -581,10 +615,11 @@ futher investigation is needed ^CJUrL15g
 			"y": -476.0073983093973,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 328,
-			"height": 35,
+			"width": 326.26129150390625,
+			"height": 35.112465976345945,
 			"seed": 240790163,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689075437355,
@@ -594,16 +629,17 @@ futher investigation is needed ^CJUrL15g
 			"fontFamily": 1,
 			"text": "3. PSBE Characteristic",
 			"rawText": "3. PSBE Characteristic",
-			"baseline": 25,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "3. PSBE Characteristic"
+			"originalText": "3. PSBE Characteristic",
+			"lineHeight": 1.25,
+			"baseline": 24
 		},
 		{
 			"type": "rectangle",
-			"version": 220,
-			"versionNonce": 918732133,
+			"version": 221,
+			"versionNonce": 112873620,
 			"isDeleted": false,
 			"id": "Z9DAAaIjHERtg6HvHvP2h",
 			"fillStyle": "hachure",
@@ -620,12 +656,13 @@ futher investigation is needed ^CJUrL15g
 			"height": 118.60967980812549,
 			"seed": 1584651187,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1689150168659,
-			"link": "obsidian://open?vault=Hobby&file=To%20Do%2FCreating%20Source",
+			"updated": 1689599941123,
+			"link": null,
 			"locked": false
 		},
 		{
@@ -644,10 +681,11 @@ futher investigation is needed ^CJUrL15g
 			"y": -420.50040530240443,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 577,
-			"height": 99,
+			"width": 576.299560546875,
+			"height": 100,
 			"seed": 836043891,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689150165705,
@@ -657,11 +695,12 @@ futher investigation is needed ^CJUrL15g
 			"fontFamily": 1,
 			"text": "1.  PSBE -> Class C (ASTM C618). (Good & Bad)\n2. PSBE's density -> Smaller than PCC & Fly ash\n3. PSBE's fineness -> Larger than fly ash; Close to PCC \n(Grinding)",
 			"rawText": "1.  PSBE -> Class C (ASTM C618). (Good & Bad)\n2. PSBE's density -> Smaller than PCC & Fly ash\n3. PSBE's fineness -> Larger than fly ash; Close to PCC \n(Grinding)",
-			"baseline": 92,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "1.  PSBE -> Class C (ASTM C618). (Good & Bad)\n2. PSBE's density -> Smaller than PCC & Fly ash\n3. PSBE's fineness -> Larger than fly ash; Close to PCC \n(Grinding)"
+			"originalText": "1.  PSBE -> Class C (ASTM C618). (Good & Bad)\n2. PSBE's density -> Smaller than PCC & Fly ash\n3. PSBE's fineness -> Larger than fly ash; Close to PCC \n(Grinding)",
+			"lineHeight": 1.25,
+			"baseline": 93
 		},
 		{
 			"type": "arrow",
@@ -683,6 +722,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 89.84619140625,
 			"seed": 1717916221,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -730,10 +770,11 @@ futher investigation is needed ^CJUrL15g
 			"y": -205.86487387702869,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 387,
-			"height": 35,
+			"width": 384.75189208984375,
+			"height": 35.112465976345945,
 			"seed": 1136741245,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689150208791,
@@ -743,11 +784,12 @@ futher investigation is needed ^CJUrL15g
 			"fontFamily": 1,
 			"text": "4. Effect of PSBE Addition",
 			"rawText": "4. Effect of PSBE Addition",
-			"baseline": 25,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "4. Effect of PSBE Addition"
+			"originalText": "4. Effect of PSBE Addition",
+			"lineHeight": 1.25,
+			"baseline": 24
 		},
 		{
 			"type": "rectangle",
@@ -769,6 +811,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 129.9340753240898,
 			"seed": 980133459,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
@@ -780,7 +823,10 @@ futher investigation is needed ^CJUrL15g
 			],
 			"updated": 1689150268080,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
@@ -798,10 +844,11 @@ futher investigation is needed ^CJUrL15g
 			"y": -134.04182101753236,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 403,
-			"height": 74,
+			"width": 401.6796875,
+			"height": 75,
 			"seed": 405959795,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689150265327,
@@ -811,11 +858,12 @@ futher investigation is needed ^CJUrL15g
 			"fontFamily": 1,
 			"text": "1. Prolong Setting Time\n2. Decrease Paste's & Mortar strength\n3. Reduce mortar's workability",
 			"rawText": "1. Prolong Setting Time\n2. Decrease Paste's & Mortar strength\n3. Reduce mortar's workability",
-			"baseline": 67,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "1. Prolong Setting Time\n2. Decrease Paste's & Mortar strength\n3. Reduce mortar's workability"
+			"originalText": "1. Prolong Setting Time\n2. Decrease Paste's & Mortar strength\n3. Reduce mortar's workability",
+			"lineHeight": 1.25,
+			"baseline": 68
 		},
 		{
 			"type": "ellipse",
@@ -837,6 +885,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 91.99999491373694,
 			"seed": 2114198515,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -865,6 +914,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 91.99999491373694,
 			"seed": 1392494301,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -893,6 +943,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 92,
 			"seed": 1950432819,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -908,12 +959,15 @@ futher investigation is needed ^CJUrL15g
 			],
 			"updated": 1689146681009,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
-			"version": 3,
-			"versionNonce": 939209323,
+			"version": 5,
+			"versionNonce": 1176598932,
 			"isDeleted": false,
 			"id": "6pc5sDIi",
 			"fillStyle": "hachure",
@@ -922,28 +976,30 @@ futher investigation is needed ^CJUrL15g
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1074.3208614033156,
+			"x": -1073.5108562153273,
 			"y": -389.0293508102921,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 24,
+			"width": 22.379989624023438,
 			"height": 25,
 			"seed": 1727068933,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1689146680218,
+			"updated": 1689599911552,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "IF",
 			"rawText": "IF",
-			"baseline": 18,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "sd180xpUVRmCHn0-FLMgS",
-			"originalText": "IF"
+			"originalText": "IF",
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "ellipse",
@@ -965,6 +1021,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 92,
 			"seed": 725439571,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -980,12 +1037,15 @@ futher investigation is needed ^CJUrL15g
 			],
 			"updated": 1689147516345,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
-			"version": 3,
-			"versionNonce": 1018892971,
+			"version": 5,
+			"versionNonce": 1630766124,
 			"isDeleted": false,
 			"id": "ubTIuol5",
 			"fillStyle": "hachure",
@@ -994,28 +1054,30 @@ futher investigation is needed ^CJUrL15g
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1070.8208614033156,
+			"x": -1069.9408488911085,
 			"y": -192.22936301732335,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 25,
+			"width": 23.239974975585938,
 			"height": 25,
 			"seed": 465055429,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1689147515492,
+			"updated": 1689599911555,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "So",
 			"rawText": "So",
-			"baseline": 18,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"containerId": "L_04y-qrZvkvaZXYnn0sG",
-			"originalText": "So"
+			"originalText": "So",
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
@@ -1037,6 +1099,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 194.34112856152805,
 			"seed": 1943637203,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1088,10 +1151,11 @@ futher investigation is needed ^CJUrL15g
 			"y": -4.832953681217418,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 344,
-			"height": 35,
+			"width": 341.5649719238281,
+			"height": 35.112465976345945,
 			"seed": 224683293,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689082072676,
@@ -1101,16 +1165,17 @@ futher investigation is needed ^CJUrL15g
 			"fontFamily": 1,
 			"text": "5. PSBE Recommendation",
 			"rawText": "5. PSBE Recommendation",
-			"baseline": 25,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "5. PSBE Recommendation"
+			"originalText": "5. PSBE Recommendation",
+			"lineHeight": 1.25,
+			"baseline": 24
 		},
 		{
 			"type": "rectangle",
-			"version": 308,
-			"versionNonce": 919177995,
+			"version": 309,
+			"versionNonce": 717630892,
 			"isDeleted": false,
 			"id": "mZJAfGOJ-u0iWS9pdojx-",
 			"fillStyle": "hachure",
@@ -1127,6 +1192,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 167.6800217501795,
 			"seed": 1100928829,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
@@ -1136,9 +1202,12 @@ futher investigation is needed ^CJUrL15g
 					"type": "arrow"
 				}
 			],
-			"updated": 1689150584257,
-			"link": "obsidian://open?vault=Hobby&file=To%20Do%2FThesis%20Note%20Link",
-			"locked": false
+			"updated": 1689599938300,
+			"link": null,
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
@@ -1156,24 +1225,26 @@ futher investigation is needed ^CJUrL15g
 			"y": 43.79919416971097,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 945,
-			"height": 124,
+			"width": 943.79931640625,
+			"height": 125,
 			"seed": 2131566739,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689150612388,
-			"link": "",
+			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "1. PSBE Pastes & Mortars > SBE; <PCC < Fly ash (28 days)\n2. PSBE_5 is recommended -> Lab strength decrease; Structural Wise, PSBE_15 is satisfying\n(PCC is used)\n3. Non-structural usage is also fine. From all the procedures done so far, not all ASCM C1709\nis covered. A full review based on ASCM C1709 is still needed before actual usage.",
 			"rawText": "1. PSBE Pastes & Mortars > SBE; <PCC < Fly ash (28 days)\n2. PSBE_5 is recommended -> Lab strength decrease; Structural Wise, PSBE_15 is satisfying\n(PCC is used)\n3. Non-structural usage is also fine. From all the procedures done so far, not all ASCM C1709\nis covered. A full review based on ASCM C1709 is still needed before actual usage.",
-			"baseline": 117,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "1. PSBE Pastes & Mortars > SBE; <PCC < Fly ash (28 days)\n2. PSBE_5 is recommended -> Lab strength decrease; Structural Wise, PSBE_15 is satisfying\n(PCC is used)\n3. Non-structural usage is also fine. From all the procedures done so far, not all ASCM C1709\nis covered. A full review based on ASCM C1709 is still needed before actual usage."
+			"originalText": "1. PSBE Pastes & Mortars > SBE; <PCC < Fly ash (28 days)\n2. PSBE_5 is recommended -> Lab strength decrease; Structural Wise, PSBE_15 is satisfying\n(PCC is used)\n3. Non-structural usage is also fine. From all the procedures done so far, not all ASCM C1709\nis covered. A full review based on ASCM C1709 is still needed before actual usage.",
+			"lineHeight": 1.25,
+			"baseline": 118
 		},
 		{
 			"type": "ellipse",
@@ -1195,6 +1266,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 91.99999491373694,
 			"seed": 1459389875,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1223,6 +1295,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 77.10261833233312,
 			"seed": 364779333,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1274,10 +1347,11 @@ futher investigation is needed ^CJUrL15g
 			"y": -563.5264130906628,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 445,
+			"width": 444.05963134765625,
 			"height": 50,
 			"seed": 1161285317,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [
 				{
@@ -1288,15 +1362,19 @@ futher investigation is needed ^CJUrL15g
 			"updated": 1689146535116,
 			"link": null,
 			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			},
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Acetone succeeded in removing (majority) oil, \nbut",
 			"rawText": "Acetone succeeded in removing (majority) oil, \nbut",
-			"baseline": 42,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Acetone succeeded in removing (majority) oil, \nbut"
+			"originalText": "Acetone succeeded in removing (majority) oil, \nbut",
+			"lineHeight": 1.25,
+			"baseline": 43
 		},
 		{
 			"type": "arrow",
@@ -1318,6 +1396,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 105.97024404245849,
 			"seed": 424031307,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1351,8 +1430,8 @@ futher investigation is needed ^CJUrL15g
 		},
 		{
 			"type": "arrow",
-			"version": 35,
-			"versionNonce": 165099326,
+			"version": 37,
+			"versionNonce": 1301683220,
 			"isDeleted": false,
 			"id": "DUkq8yCJaWbuh5k8vr0NZ",
 			"fillStyle": "hachure",
@@ -1361,19 +1440,20 @@ futher investigation is needed ^CJUrL15g
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1084.3524205070617,
-			"y": -420.8477163851044,
+			"x": -1084.3524205070614,
+			"y": -420.8477163851046,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 72.05766446730831,
-			"height": 121.27418537119047,
+			"width": 72.48713688204407,
+			"height": 120.27418537119024,
 			"seed": 1489749413,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1689565573552,
+			"updated": 1689599911551,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1395,8 +1475,8 @@ futher investigation is needed ^CJUrL15g
 					0
 				],
 				[
-					-72.05766446730831,
-					-121.27418537119047
+					-72.48713688204407,
+					-120.27418537119024
 				]
 			]
 		},
@@ -1416,10 +1496,11 @@ futher investigation is needed ^CJUrL15g
 			"y": -627.4720447877102,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 339,
-			"height": 74,
+			"width": 336.6796875,
+			"height": 75,
 			"seed": 722445093,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [
 				{
@@ -1430,15 +1511,19 @@ futher investigation is needed ^CJUrL15g
 			"updated": 1689146620355,
 			"link": null,
 			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			},
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "Fix Variable:\n- Mixing method (time, tools, etc)\n- SBE being submerged by acetone",
 			"rawText": "Fix Variable:\n- Mixing method (time, tools, etc)\n- SBE being submerged by acetone",
-			"baseline": 67,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Fix Variable:\n- Mixing method (time, tools, etc)\n- SBE being submerged by acetone"
+			"originalText": "Fix Variable:\n- Mixing method (time, tools, etc)\n- SBE being submerged by acetone",
+			"lineHeight": 1.25,
+			"baseline": 68
 		},
 		{
 			"type": "text",
@@ -1456,10 +1541,11 @@ futher investigation is needed ^CJUrL15g
 			"y": -454.078704019119,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 145,
+			"width": 143.01991271972656,
 			"height": 25,
 			"seed": 1031229323,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689146734057,
@@ -1469,11 +1555,12 @@ futher investigation is needed ^CJUrL15g
 			"fontFamily": 1,
 			"text": "(SBE & PSBE)",
 			"rawText": "(SBE & PSBE)",
-			"baseline": 18,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "(SBE & PSBE)"
+			"originalText": "(SBE & PSBE)",
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -1491,10 +1578,11 @@ futher investigation is needed ^CJUrL15g
 			"y": -256.87187368256053,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 145,
+			"width": 143.01991271972656,
 			"height": 25,
 			"seed": 1179745893,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689146940078,
@@ -1504,11 +1592,12 @@ futher investigation is needed ^CJUrL15g
 			"fontFamily": 1,
 			"text": "(SBE & PSBE)",
 			"rawText": "(SBE & PSBE)",
-			"baseline": 18,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "(SBE & PSBE)"
+			"originalText": "(SBE & PSBE)",
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -1526,10 +1615,11 @@ futher investigation is needed ^CJUrL15g
 			"y": -301.2528505694188,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 497,
-			"height": 99,
+			"width": 496.39959716796875,
+			"height": 100,
 			"seed": 761551467,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689147051254,
@@ -1539,11 +1629,12 @@ futher investigation is needed ^CJUrL15g
 			"fontFamily": 1,
 			"text": "Addition:\n*Chemical Name\n*Total major (not included the undetected phase)\n*Retest SBE -> PSBE ",
 			"rawText": "Addition:\n*Chemical Name\n*Total major (not included the undetected phase)\n*Retest SBE -> PSBE ",
-			"baseline": 92,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Addition:\n*Chemical Name\n*Total major (not included the undetected phase)\n*Retest SBE -> PSBE "
+			"originalText": "Addition:\n*Chemical Name\n*Total major (not included the undetected phase)\n*Retest SBE -> PSBE ",
+			"lineHeight": 1.25,
+			"baseline": 93
 		},
 		{
 			"type": "line",
@@ -1565,6 +1656,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 70.262894442208,
 			"seed": 1905216613,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1594,8 +1686,8 @@ futher investigation is needed ^CJUrL15g
 		},
 		{
 			"type": "arrow",
-			"version": 246,
-			"versionNonce": 197747618,
+			"version": 247,
+			"versionNonce": 1107007916,
 			"isDeleted": false,
 			"id": "U1LeqjdTkwSmL-CP3UwyR",
 			"fillStyle": "hachure",
@@ -1612,11 +1704,12 @@ futher investigation is needed ^CJUrL15g
 			"height": 57.33995769342192,
 			"seed": 32195301,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1689565573557,
+			"updated": 1689599911554,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1659,10 +1752,11 @@ futher investigation is needed ^CJUrL15g
 			"y": -158.00882500010573,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 598,
-			"height": 99,
+			"width": 597.179443359375,
+			"height": 100,
 			"seed": 609794469,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [
 				{
@@ -1673,15 +1767,19 @@ futher investigation is needed ^CJUrL15g
 			"updated": 1689147568795,
 			"link": null,
 			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			},
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "(-) Illite -> Increase Water Absorption\n(-) Cristabolite -> Material Instability, Increase Brittleness\n(+) Sodalite -> Increase material strength & durability\n(+) Gaylusite -> Increase material's flow & workability",
 			"rawText": "(-) Illite -> Increase Water Absorption\n(-) Cristabolite -> Material Instability, Increase Brittleness\n(+) Sodalite -> Increase material strength & durability\n(+) Gaylusite -> Increase material's flow & workability",
-			"baseline": 92,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "(-) Illite -> Increase Water Absorption\n(-) Cristabolite -> Material Instability, Increase Brittleness\n(+) Sodalite -> Increase material strength & durability\n(+) Gaylusite -> Increase material's flow & workability"
+			"originalText": "(-) Illite -> Increase Water Absorption\n(-) Cristabolite -> Material Instability, Increase Brittleness\n(+) Sodalite -> Increase material strength & durability\n(+) Gaylusite -> Increase material's flow & workability",
+			"lineHeight": 1.25,
+			"baseline": 93
 		},
 		{
 			"type": "arrow",
@@ -1703,6 +1801,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 68.43964116903783,
 			"seed": 748825867,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -1758,6 +1857,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 93.85316180491566,
 			"seed": 258959557,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
@@ -1769,7 +1869,10 @@ futher investigation is needed ^CJUrL15g
 			],
 			"updated": 1689147754550,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "rectangle",
@@ -1791,12 +1894,13 @@ futher investigation is needed ^CJUrL15g
 			"height": 148.29513976370583,
 			"seed": 1703977963,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
 			"boundElements": [],
 			"updated": 1689149656335,
-			"link": "",
+			"link": null,
 			"locked": false
 		},
 		{
@@ -1815,10 +1919,11 @@ futher investigation is needed ^CJUrL15g
 			"y": 47.97386671896726,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 619,
+			"width": 618.1795043945312,
 			"height": 50,
 			"seed": 1043563179,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689147375127,
@@ -1828,11 +1933,12 @@ futher investigation is needed ^CJUrL15g
 			"fontFamily": 1,
 			"text": "! All the percentage of Illite, Cristabolite, Sodalite, Gaylusite\n(SBE -> PSBE) = Increased",
 			"rawText": "! All the percentage of Illite, Cristabolite, Sodalite, Gaylusite\n(SBE -> PSBE) = Increased",
-			"baseline": 42,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "! All the percentage of Illite, Cristabolite, Sodalite, Gaylusite\n(SBE -> PSBE) = Increased"
+			"originalText": "! All the percentage of Illite, Cristabolite, Sodalite, Gaylusite\n(SBE -> PSBE) = Increased",
+			"lineHeight": 1.25,
+			"baseline": 43
 		},
 		{
 			"type": "rectangle",
@@ -1854,6 +1960,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 241.78015715596905,
 			"seed": 1481682507,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
@@ -1865,7 +1972,10 @@ futher investigation is needed ^CJUrL15g
 			],
 			"updated": 1689147935123,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
@@ -1883,10 +1993,11 @@ futher investigation is needed ^CJUrL15g
 			"y": -336.58090069910804,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 217,
-			"height": 33,
+			"width": 214.7410125732422,
+			"height": 32.45213959775435,
 			"seed": 234654597,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689147761645,
@@ -1896,11 +2007,12 @@ futher investigation is needed ^CJUrL15g
 			"fontFamily": 1,
 			"text": "Control VS PSBE",
 			"rawText": "Control VS PSBE",
-			"baseline": 23,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Control VS PSBE"
+			"originalText": "Control VS PSBE",
+			"lineHeight": 1.2499999999999998,
+			"baseline": 22
 		},
 		{
 			"type": "text",
@@ -1918,10 +2030,11 @@ futher investigation is needed ^CJUrL15g
 			"y": -275.29909445032337,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 606,
-			"height": 149,
+			"width": 605.01953125,
+			"height": 150,
 			"seed": 1191036971,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689147872847,
@@ -1931,11 +2044,12 @@ futher investigation is needed ^CJUrL15g
 			"fontFamily": 1,
 			"text": "1. Normal consistency -> PSBE requires more water to reach \nnormal consistency.\n2. Workability -> PSBE lowers the workability of the samples\n3. Strength -> PSBE's paste and mortars strength is lower\nthan PCC's.\n4. Heat -> PSBE's heat gain is lower than PCC's ",
 			"rawText": "1. Normal consistency -> PSBE requires more water to reach \nnormal consistency.\n2. Workability -> PSBE lowers the workability of the samples\n3. Strength -> PSBE's paste and mortars strength is lower\nthan PCC's.\n4. Heat -> PSBE's heat gain is lower than PCC's ",
-			"baseline": 142,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "1. Normal consistency -> PSBE requires more water to reach \nnormal consistency.\n2. Workability -> PSBE lowers the workability of the samples\n3. Strength -> PSBE's paste and mortars strength is lower\nthan PCC's.\n4. Heat -> PSBE's heat gain is lower than PCC's "
+			"originalText": "1. Normal consistency -> PSBE requires more water to reach \nnormal consistency.\n2. Workability -> PSBE lowers the workability of the samples\n3. Strength -> PSBE's paste and mortars strength is lower\nthan PCC's.\n4. Heat -> PSBE's heat gain is lower than PCC's ",
+			"lineHeight": 1.25,
+			"baseline": 143
 		},
 		{
 			"type": "line",
@@ -1957,6 +2071,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 126.2042639279411,
 			"seed": 1529841637,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -2000,10 +2115,11 @@ futher investigation is needed ^CJUrL15g
 			"y": -238.8410532493524,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 232,
-			"height": 38,
+			"width": 230.18482971191406,
+			"height": 38.10857644423622,
 			"seed": 1382331237,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689147804049,
@@ -2013,11 +2129,12 @@ futher investigation is needed ^CJUrL15g
 			"fontFamily": 1,
 			"text": "Increasement !!",
 			"rawText": "Increasement !!",
-			"baseline": 27,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Increasement !!"
+			"originalText": "Increasement !!",
+			"lineHeight": 1.2499999999999998,
+			"baseline": 26
 		},
 		{
 			"type": "arrow",
@@ -2039,6 +2156,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 109.79638867351554,
 			"seed": 1764789477,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
@@ -2090,6 +2208,7 @@ futher investigation is needed ^CJUrL15g
 			"height": 181.79071914577753,
 			"seed": 1304165957,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": {
 				"type": 3
 			},
@@ -2101,7 +2220,10 @@ futher investigation is needed ^CJUrL15g
 			],
 			"updated": 1689148757221,
 			"link": null,
-			"locked": false
+			"locked": false,
+			"customData": {
+				"legacyTextWrap": true
+			}
 		},
 		{
 			"type": "text",
@@ -2119,10 +2241,11 @@ futher investigation is needed ^CJUrL15g
 			"y": 90.00050216006349,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 676,
-			"height": 149,
+			"width": 675.0194091796875,
+			"height": 150,
 			"seed": 1781752267,
 			"groupIds": [],
+			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1689148757221,
@@ -2132,11 +2255,12 @@ futher investigation is needed ^CJUrL15g
 			"fontFamily": 1,
 			"text": "1. Illite's effect is confirm, OIL also involves\n2. Gaylusite effect is overshadowed by Illite & Oil\n3. Sodalite effect is overshadowed by Oil, Cristabolite\n4. Illite is also suspected to dissipate heat; \nCristabolite is suspected to be involved; The replacement is low so \nfuther investigation is needed",
 			"rawText": "1. Illite's effect is confirm, OIL also involves\n2. Gaylusite effect is overshadowed by Illite & Oil\n3. Sodalite effect is overshadowed by Oil, Cristabolite\n4. Illite is also suspected to dissipate heat; \nCristabolite is suspected to be involved; The replacement is low so \nfuther investigation is needed",
-			"baseline": 142,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "1. Illite's effect is confirm, OIL also involves\n2. Gaylusite effect is overshadowed by Illite & Oil\n3. Sodalite effect is overshadowed by Oil, Cristabolite\n4. Illite is also suspected to dissipate heat; \nCristabolite is suspected to be involved; The replacement is low so \nfuther investigation is needed"
+			"originalText": "1. Illite's effect is confirm, OIL also involves\n2. Gaylusite effect is overshadowed by Illite & Oil\n3. Sodalite effect is overshadowed by Oil, Cristabolite\n4. Illite is also suspected to dissipate heat; \nCristabolite is suspected to be involved; The replacement is low so \nfuther investigation is needed",
+			"lineHeight": 1.25,
+			"baseline": 143
 		}
 	],
 	"appState": {
@@ -2154,10 +2278,10 @@ futher investigation is needed ^CJUrL15g
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 3336.569332654298,
-		"scrollY": 1570.179867511267,
+		"scrollX": 1329.5137770987426,
+		"scrollY": 1050.565982691389,
 		"zoom": {
-			"value": 0.3
+			"value": 0.44999999999999996
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
