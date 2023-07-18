@@ -1,4 +1,7 @@
-`---`
+---
+tag: Conclusion
+project: PSBE Research
+---
 - [ ] Here's Jevon's Conclusion 
 ![[Jevon's Thesis Conclusion Sketch|800]]
 
