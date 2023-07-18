@@ -164,14 +164,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "cfbf745b5958df3c",
+  "active": "8465da89e9c789e3",
   "lastOpenFiles": [
     "Future Plan/To Do List.md",
     "assets/Draft_Skripsi_Jevon Jordan_03111940000046.docx.md",
