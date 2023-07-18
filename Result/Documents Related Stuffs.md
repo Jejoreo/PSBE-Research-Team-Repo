@@ -1,4 +1,7 @@
-`---`
+---
+tag: Document Parent
+project: PSBE Research
+---
 ## PPTX
 Here's Jejoreo's Power Point, This is the one from the thesis seminar:
 ![[assets/Final Product.pptx|Final Product.pptx]]

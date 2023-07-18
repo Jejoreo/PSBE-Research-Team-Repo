@@ -32,7 +32,12 @@
   "Meeting Note": "FarCommentDots",
   "Meeting Note/Jevon's Thesis Conclusion Sketch.md": "FarCircleCheck",
   "Test Results": "FarRectangleList",
-  "Test Results/Raw Material SEM-EDX": "FarEnvelope",
   "Result/Extra Add In Tools ( In Progress).md": "FarCopyright",
-  "Meeting Note/Conclusion.md": "FarFloppyDisk"
+  "Meeting Note/Conclusion.md": "FarFloppyDisk",
+  "Test Results/Deoiling 1": "FarEnvelope",
+  "Test Results/XRF Raw Materials": {
+    "iconName": "FarEnvelope",
+    "inheritanceIcon": "FarEnvelope"
+  },
+  "Test Results/SEM-EDX": "FarEnvelope"
 }
