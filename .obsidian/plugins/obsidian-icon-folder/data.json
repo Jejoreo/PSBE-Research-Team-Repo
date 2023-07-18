@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarFileLines",
       "FarFloppyDisk",
       "FarEnvelope",
       "FarRectangleList",
-      "FarCircleCheck",
-      "FarCommentDots"
+      "FarCircleCheck"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
     "iconName": "FarEnvelope",
     "inheritanceIcon": "FarEnvelope"
   },
-  "Test Results/SEM-EDX": "FarEnvelope"
+  "Test Results/SEM-EDX": "FarEnvelope",
+  "Test Results/Testing Result Update.md": "FarFileLines"
 }

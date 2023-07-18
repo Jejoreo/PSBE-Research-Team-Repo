@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting Note/Conclusion.md",
+                "file": "Test Results/Testing Result Update.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "104891492a86018b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "assets/Progress.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Note/Conclusion.md",
+                "file": "Test Results/Testing Result Update.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meeting Note/Conclusion.md",
+                "file": "Test Results/Testing Result Update.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meeting Note/Conclusion.md"
+                "file": "Test Results/Testing Result Update.md"
               }
             }
           },
@@ -161,10 +173,13 @@
   },
   "active": "cfbf745b5958df3c",
   "lastOpenFiles": [
-    "Meeting Note/Jevon's Thesis Conclusion Sketch.md",
-    "Meeting Note/Conclusion.md",
-    "Future Plan/To Do List.md",
+    "assets/Progress.md",
     "Test Results/Testing Result Update.md",
+    "Result/Documents Related Stuffs.md",
+    "assets/Draft_Skripsi_Jevon Jordan_03111940000046.docx.md",
+    "Meeting Note/Conclusion.md",
+    "Meeting Note/Jevon's Thesis Conclusion Sketch.md",
+    "Future Plan/To Do List.md",
     "Test Results/Deoiling 1/01285-01 (001452-04-2022) ITS PTN BH - ECERAN oil content SAJA - ICP.pdf",
     "Test Results/XRF Raw Materials/Semen Komposit/Gambar hasil/EL-751 (Semen Komposit) Unsur 2.bmp",
     "Test Results/XRF Raw Materials/Semen Komposit/Gambar hasil/EL-751 (Semen Komposit) Unsur.bmp",
@@ -187,9 +202,7 @@
     "Test Results/XRF Raw Materials/Raw SBE/Gambar grafik/EL-751 (Row SBE) Unsur.bmp",
     "Test Results/XRF Raw Materials/Raw SBE/Gambar grafik/EL-751 (Row SBE) Unsur 2.bmp",
     "Result/Extra Add In Tools ( In Progress).md",
-    "Result/Documents Related Stuffs.md",
     "assets/Final Product.pptx.md",
-    "assets/Draft_Skripsi_Jevon Jordan_03111940000046.docx.md",
     "assetsDraft_Skripsi_Jevon Jordan_03111940000046.docx.md"
   ]
 }
