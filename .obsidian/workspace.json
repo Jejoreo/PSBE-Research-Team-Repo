@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting Note/Conclusion.md",
+                "file": "Result/Documents Related Stuffs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meeting Note/Conclusion.md",
+                "file": "Result/Documents Related Stuffs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meeting Note/Conclusion.md",
+                "file": "Result/Documents Related Stuffs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meeting Note/Conclusion.md"
+                "file": "Result/Documents Related Stuffs.md"
               }
             }
           },
@@ -163,9 +163,9 @@
   "lastOpenFiles": [
     "Meeting Note/Jevon's Thesis Conclusion Sketch.md",
     "Meeting Note/Conclusion.md",
+    "Future Plan/To Do List.md",
     "assets/Final Product.pptx.md",
     "assets/Draft_Skripsi_Jevon Jordan_03111940000046.docx.md",
-    "Future Plan/To Do List.md",
     "Result/Documents Related Stuffs.md",
     "Result/Extra Add In Tools ( In Progress).md",
     "Result/Future Steps.md",
