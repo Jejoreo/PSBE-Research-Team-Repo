@@ -1,6 +1,6 @@
 ---
-tag: "Document Parent"
-project: "PSBE Research"
+tag: Document Parent
+project: PSBE Research
 ---
 ## PPTX
 Here's Jejoreo's Power Point, This is the one from the thesis seminar:
